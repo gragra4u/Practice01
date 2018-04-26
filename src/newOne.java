@@ -30,7 +30,7 @@ public class newOne {
         selenium.click("link=×");
         selenium.type("id=lst-ib", "opobo");
         selenium.type("id=lst-ib", "opodo");
-        selenium.click("link=Book cheap holidays: flights, hotels and car hire - Opodo");
+        selenium.click("link=Bosssok cheap holidays: flights, hotels and car hire - Opodo");
         selenium.click("//div[@id='flights-manager']/div[2]/div/ul/li");
         selenium.click("//div[@id='flights-manager']/div[2]/div/ul/li[2]/span[2]");
         selenium.click("css=button.od-cookiedsc-btn.accept_button");
