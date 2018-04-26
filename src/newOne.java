@@ -15,7 +15,9 @@ public class newOne {
     private Selenium selenium;
     // This is a test comment. I'm practicing with Git!
 	// yahoo
-	// hwqgkweulgluweluhdwvhivd.vjhdvsb 
+	// hwqgkweulgluweluhdwvhivd.vjhdvsb
+
+    //THIS IS A NEW LINE. I'M NOT SHOUTING
 
     @Before
     public void setUp() throws Exception {
