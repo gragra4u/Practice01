@@ -13,6 +13,7 @@ import static org.apache.commons.lang3.StringUtils.join;
 
 public class newOne {
     private Selenium selenium;
+    // This is a test comment. I'm practicing with Git!
 
     @Before
     public void setUp() throws Exception {
