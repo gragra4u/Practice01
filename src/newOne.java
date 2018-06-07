@@ -54,7 +54,7 @@ public class newOne {
         selenium.click("css=span.b-button__text");
         assertEquals("Enter your check-in and check-out dates in the search box on the left to see the exact room prices for your stay and to be able to sort by price.", selenium.getAlert());
     }
-
+//aDDED tHIS oN tHE rEPO
     @After
     public void tearDown() throws Exception {
         selenium.stop();
